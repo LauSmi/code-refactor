@@ -1,7 +1,10 @@
 # website code refactor
+
 Prework Study Guide Webpage
 Description
-This website is a code refactor assignment where I used the "scout rule" to leave the code in better condition than when I found it. I made the code more semantic and added alt tags for screen readers. 
+
+This website is a code refactor assignment where I used the "scout rule" to leave the code in better condition than when I found it. I made the code more semantic and added alt tags for screen readers. Original code was provided by University of Minnesota bootcamp program. Refactoring of code was done under guidance of my tutor James Campagnoni.
+
 Screenshot:
 ![Screenshot of the Horiseon webpage](./assets/images/horiseon.png)
 
