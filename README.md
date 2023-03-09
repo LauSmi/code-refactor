@@ -1,20 +1,20 @@
-#website code refactor
+# website code refactor
 Prework Study Guide Webpage
 Description
 This website is a code refactor assignment where I used the "scout rule" to leave the code in better condition than when I found it. I made the code more semantic and added alt tags for screen readers. 
 Screenshot:
+![Screenshot of the Horiseon webpage](./assets/images/horiseon.png)
 
-
-Installation
+# Installation
 N/A
 
-Usage
+# Usage
 Each section contains notes about topics pertaining to web building, such as: HTML, CSS, JavaScript, and GIt. If Dev Tools is opened, JavaScript can be seen running.
 
-Credits
+# Credits
 N/A
 
-License
+# License
 MIT License
 
 Copyright (c) 2023 LauSmi
